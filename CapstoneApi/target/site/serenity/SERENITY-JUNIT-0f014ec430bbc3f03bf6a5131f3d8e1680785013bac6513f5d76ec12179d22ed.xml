@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login User Endpoint" skipped="0" tests="1" time="4.75" timestamp="2022-06-21 03:41:08"><testcase name="Refresh Token"><failure message="expected:&lt;200&gt; but was:&lt;405&gt;" type="java.lang.AssertionError">expected:&lt;200&gt; but was:&lt;405&gt;</failure><system-err>expected:&lt;200&gt; but was:&lt;405&gt;&#13;
+CapstoneApi@1.0-SNAPSHOT/starter.Autentikasi.Logout.validateResponseCode(Logout.java:36)&#13;
+CapstoneApi@1.0-SNAPSHOT/starter.Steps.AutentikasiStepdefs.iReceivedHTTPResponse(AutentikasiStepdefs.java:63)&#13;
+✽.I received HTTP response 200(file:///D:/Kelompok36/CapstoneApi/src/test/resources/features/Autentikasi.feature:26)&#13;
+</system-err></testcase></testsuite>

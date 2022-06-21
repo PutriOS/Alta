@@ -1,0 +1,6 @@
+starter\Autentikasi\Login.class
+starter\CucumberTestSuite.class
+starter\Steps\AutentikasiStepdefs.class
+starter\Utils\General.class
+starter\Autentikasi\Logout.class
+starter\Autentikasi\Refresh.class
